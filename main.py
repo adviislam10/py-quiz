@@ -16,34 +16,34 @@ x = 0
 
 if A1 == "atlantic":
     print("Q1 CORRECT")
-    x = x + 1
+    x += 1
 elif A1 == "atlantic ocean":
     print("Q1 CORRECT")
-    x = x + 1
+    x += 1
 else:
     print("Q1 INCORRECT")
 
 if A2 == "bald eagle":
     print("Q2 CORRECT")
-    x = x + 1
+    x += 1
 elif A2 == "the bald eagle":
     print("Q2 CORRECT")
-    x = x + 1
+    x += 1
 else:
     print("Q2 INCORRECT")
 
 if A3 == "mexico":
     print("Q3 CORRECT")
-    x = x + 1
+    x += 1
 else:
     print("Q3 INCORRECT")
 
 if A4 == "frog":
     print("Q4 CORRECT")
-    x = x + 1
+    x += 1
 elif A4 == "frogs":
     print("Q4 CORRECT")
-    x = x + 1
+    x += 1
 else:
     print("Q4 INCORRECT")
 
